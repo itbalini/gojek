@@ -4,7 +4,7 @@ $ pkg install php
 
 $ pkg install git
 
-$ git clone https://github.com/mrjumady/gojek/
+$ git clone https://github.com/itbalini/gojek/
 
 $ cd gojek
 
